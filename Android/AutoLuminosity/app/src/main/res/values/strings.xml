@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">Auto Luminosity</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_register">Register</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="title_action">Action:</string>
+
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_incorrect_email">This email is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_device_detail">Alarm Detail</string>
+    <string name="unregister_light">Unregister Light</string>
+    <string name="unregister_room">Unregister Room</string>
+    <string name="unregister_schedule">Unregister Schedule</string>
+    <string name="deactivate_device">Deactivate Light</string>
+    <string name="activate_device">Activate Light</string>
+    <string name="toggle_light">Toggle Light</string>
+    <string name="toggle_room">Toggle Room</string>
+    <string name="add_schedule">Add Schedule</string>
+    <string name="from_time">From:</string>
+    <string name="to_time">To:</string>
+    <string name="save_schedule">Save</string>
+
+    <string name="register_email">Email</string>
+    <string name="register_password">Password</string>
+    <string name="register_confirm_password">Confirm Password</string>
+    <string name="action_register">Register</string>
+
+    <string name="error_registered_email">This email address is already registered</string>
+    <string name="error_password_match">Passwords do not match</string>
+
+    <string name="error_failed_registration">Registration failed. Try again later.</string>
+
+    <string name="title_activity_lights">Lights</string>
+    <string name="title_activity_rooms">Rooms</string>
+    <string name="title_activity_schedules">Schedules</string>
+    <string name="title_activity_light_details">Light Details</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title_social_recommendations">Enable social recommendations</string>
+    <string name="pref_description_social_recommendations">Recommendations for people to contact
+        based on your message history
+    </string>
+
+    <string name="pref_title_display_name">Display name</string>
+    <string name="pref_default_display_name">John Smith</string>
+
+    <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
+    <string-array name="pref_example_list_titles">
+        <item>Always</item>
+        <item>When possible</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+
+
+    <string name="pref_header_lifx">Lifx</string>
+
+    <string name="pref_title_access_token">Access Token</string>
+    <string name="title_activity_room_details">Room Details</string>
+    <string name="title_activity_add_schedule">Add Schedule</string>
+    <string name="title_activity_schedule_details">Schedule Details</string>
+
+</resources>

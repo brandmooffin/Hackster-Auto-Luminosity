@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11.25, 8.5" name="AutoLuminosityData">
+  <DataContextMoniker Name="/AutoLuminosityDataDataContext" />
+  <nestedChildShapes>
+    <classShape Id="c7a35efb-cf51-4879-87b7-0ce3066efde3" absoluteBounds="0.75, 3.75, 2, 1.9631982421875005">
+      <DataClassMoniker Name="/AutoLuminosityDataDataContext/AutoLuminosity_Light" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9e6a04c1-f140-48ed-a802-d65f4e4a50c2" absoluteBounds="0.765, 4.21, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="5b0d43bd-c1e4-4621-a01c-aeee54567ec3" absoluteBounds="3.75, 3.75, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/AutoLuminosityDataDataContext/AutoLuminosity_RoomLightLink" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d3d20633-15b6-4009-aeea-c0e4934f4d1b" absoluteBounds="3.765, 4.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="3b2c052f-856e-41af-a2d6-7a9029a7c8b4" absoluteBounds="4.75, 0.75, 2, 1.7708968098958329">
+      <DataClassMoniker Name="/AutoLuminosityDataDataContext/AutoLuminosity_Room" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9491b9c1-f91b-48a5-af34-4e8736bf02ae" absoluteBounds="4.765, 1.21, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="c2e589a5-c435-42bb-a5ef-aa1d458328e2" absoluteBounds="9, 2.75, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/AutoLuminosityDataDataContext/AutoLuminosity_User" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e993fa40-318c-443d-89ba-9c91824a0212" absoluteBounds="9.015, 3.21, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="045b5d46-c057-4e57-aa01-f58d2ebbe071" absoluteBounds="6.25, 3.25, 2, 1.9631982421875">
+      <DataClassMoniker Name="/AutoLuminosityDataDataContext/AutoLuminosity_Schedule" />
+      <nestedChildShapes>
+        <elementListCompartment Id="02269691-e0bc-41cf-96a3-4eb24b519d96" absoluteBounds="6.2650000000000006, 3.71, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
